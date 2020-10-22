@@ -1,0 +1,16 @@
+{
+  "name": "wpcu-esp",
+  "version": "0.1.0",
+  "description": "Wright Patt Credit Union eStatement Parser",
+  "private": false,
+  "main": "index.js",
+  "scripts": {
+    "dev": "./index.js"
+  },
+  "author": "mmccartn",
+  "license": "MIT",
+  "dependencies": {
+    "argparse": "^2.0.1",
+    "pdf-parse": "^1.1.1"
+  }
+}
